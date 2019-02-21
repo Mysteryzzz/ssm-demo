@@ -1,0 +1,5 @@
+com\cn\dao\UserMapper.class
+com\cn\domain\User.class
+com\cn\service\IUserService.class
+com\cn\controller\UserController.class
+com\cn\service\impl\UserServiceImpl.class
